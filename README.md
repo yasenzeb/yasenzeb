@@ -4,7 +4,7 @@
 
 ### 🛠️ Full-Stack Developer · 🎨 UI/UX Craftsman · ⚡ Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Cairo&size=22&pause=1000&color=EAB308&center=true&vCenter=true&width=500&lines=بابني+مشاريع+حقيقية+بأدوات+حقيقية;Full-Stack+Web+Developer;Supabase+%7C+Vercel+%7C+Vanilla+JS;من+الفكرة+للمنتج+النهائي" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cairo&size=22&pause=1000&color=EAB308&center=true&vCenter=true&width=500&lines=بأبني+مشاريع+حقيقية+بأدوات+حقيقية;Full-Stack+Web+Developer;Supabase+%7C+Vercel+%7C+Vanilla+JS;من+الفكرة+للمنتج+النهائي" alt="Typing SVG" />
 
 <br/>
 
@@ -19,17 +19,17 @@
 
 ```javascript
 const yassin = {
-  name:     "Yassin ElSeba3e — ياسين السباعي",
-  location: "🇪🇬 Egypt",
-  passion:  "بحوّل الأفكار لمنتجات حقيقية تشتغل على الـ Production",
-  approach: "أبني كل حاجة من الـ UI للـ API للـ Database",
+  name:      "Yassin ElSeba3e — ياسين السباعي",
+  location:  "🇪🇬 Egypt",
+  passion:   "بحوّل الأفكار لمنتجات حقيقية تشتغل على الـ Production",
+  approach:  "أبني كل حاجة من الـ UI للـ API للـ Database",
   currently: "بطور تطبيقات ويب متكاملة بـ Vercel + Supabase",
-  motto:    "الكود الشغّال أحسن من الكود الجميل اللي مش شغّال 🚀",
+  motto:     "الكود الشغّال أحسن من الكود الجميل اللي مش شغّال 🚀",
 };
 ```
 
 أنا مطور Full-Stack بعشق بناء منتجات رقمية حقيقية — مش بس تمارين أو tutorials.
-بدأ من الصفر وبشتغل على مشاريع كاملة من تصميم الـ UI وحتى قواعد البيانات والـ API.
+بدأت من الصفر وبشتغل على مشاريع كاملة من تصميم الـ UI وحتى قواعد البيانات والـ API.
 أسلوبي: **بسيط، سريع، يشتغل.**
 
 ---
@@ -64,6 +64,7 @@ const yassin = {
 ## 🚀 أبرز المشاريع
 
 ### 🏪 Omar Store — متجر مكملات رياضية متكامل
+
 > منصة تجارة إلكترونية كاملة من الصفر — صفحة رئيسية ديناميكية، لوحة إدارة محمية بكلمة سر، API كاملة للمنتجات والفئات، نظام خصومات (مبلغ ثابت / نسبة مئوية)، رفع صور، وربط كامل مع Supabase.
 
 **Stack:** `Vanilla JS` · `Tailwind CSS` · `Vercel Serverless Functions` · `Supabase (PostgreSQL)` · `Alpine.js`
@@ -79,8 +80,18 @@ const yassin = {
 
 ---
 
-### 🤖 [مشروع قادم — اكتبه هنا]
-> وصف مختصر للمشروع
+### 🏆 STEM Sadk Challenge — منصة التحديات والمسابقات التعليمية
+
+> نظام تفاعلي متكامل مخصص لإدارة وحل التحديات العلمية والمسابقات البرمجية، مصمم لتقديم تجربة مستخدم سلسة مع أدوات تقييم فوري وعرض تفاعلي للمستويات والنتائج.
+
+**Stack:** `HTML5` · `CSS3` · `JavaScript` · `Tailwind CSS` · `Frontend Routing & Logic`
+
+**Features:**
+- 🎯 عرض تحديات تفاعلية مصنفة حسب الصعوبة والمجال
+- ⚡ نظام تقييم واختبار فوري للإجابات والحلول المقدمة
+- 📊 لوحة تحكم تفاعلية لعرض النتائج والمراكز (Leaderboard)
+- 🎨 واجهة مستخدم متميزة وResponsive متوافقة مع جميع الأجهزة
+- ⚙️ إدارة كاملة لمنطق التحديات بدون تعقيد برمجي لضمان السرعة والكفاءة
 
 ---
 
@@ -88,7 +99,7 @@ const yassin = {
 
 <div align="center">
 
-![Yassin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasenyasenya123586744-png&show_icons=true&theme=dark&title_color=eab308&icon_color=eab308&text_color=ffffff&bg_color=0d0d0d&border_color=222222&hide_border=false)
+![Yassin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasenyasenya123586744-png&show_icons=true&theme=dark&title_color=eab308&icon_color=eab308&text_color=ffffff&bg_color=0d0d0d&border_color=222222)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasenyasenya123586744-png&layout=compact&theme=dark&title_color=eab308&text_color=ffffff&bg_color=0d0d0d&border_color=222222)
 
